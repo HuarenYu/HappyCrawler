@@ -1,0 +1,22 @@
+{
+  "name": "HappyCrawler",
+  "version": "0.1.0",
+  "description": "HappyCrawler",
+  "private": true,
+  "main": "app.js",
+  "keywords": [
+    "crawler",
+    "happy"
+  ],
+  "author": "Tony YU",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "simplecrawler": "*",
+    "cheerio": "*",
+    "iconv-lite": "*",
+    "log4js": "*",
+    "mongoose": "*",
+    "express": "*"
+  }
+}
